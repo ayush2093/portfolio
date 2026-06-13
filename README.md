@@ -48,8 +48,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and exper
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ram9219/Portfolio.git
-   cd Portfolio
+   git clone https://github.com/ayush2093/portfolio.git
+   cd portfolio
    ```
 
 2. **Install dependencies**
@@ -113,10 +113,9 @@ portfolio/
 
 Feel free to reach out!
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **GitHub**: [https://github.com/Ram9219](https://github.com/Ram9219)
-- **Portfolio**: [Live Demo URL]
+- **Email**: [ayushsingh2093@gmail.com](mailto:ayushsingh2093@gmail.com)
+- **LinkedIn**: [https://www.linkedin.com/in/ayush-singh-622951297/](https://www.linkedin.com/in/ayush-singh-622951297/)
+- **GitHub**: [https://github.com/ayush2093](https://github.com/ayush2093)
 
 ## 📄 License
 
