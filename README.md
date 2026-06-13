@@ -7,6 +7,9 @@
 
 A modern, responsive portfolio website showcasing my skills, projects, and experience as a Full-Stack Web Developer. Built with React, Vite, and Tailwind CSS for optimal performance and user experience.
 
+🔗 **Live Demo**: [https://ayush-portfolio-theta-taupe.vercel.app](https://ayush-portfolio-theta-taupe.vercel.app)
+
+
 ## ✨ Features
 
 - **Responsive Design**: Fully responsive across all devices and screen sizes
