@@ -116,6 +116,7 @@ Feel free to reach out!
 - **Email**: [ayushsingh2093@gmail.com](mailto:ayushsingh2093@gmail.com)
 - **LinkedIn**: [https://www.linkedin.com/in/ayush-singh-622951297/](https://www.linkedin.com/in/ayush-singh-622951297/)
 - **GitHub**: [https://github.com/ayush2093](https://github.com/ayush2093)
+- **Portfolio**: [https://ayush-portfolio-theta-taupe.vercel.app](https://ayush-portfolio-theta-taupe.vercel.app)
 
 ## 📄 License
 
